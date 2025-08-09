@@ -4,13 +4,12 @@ The model is trained, tested, and evaluated in Google Colab and meets the assign
 _______
 
 #Group Members
-| Name | Student ID |
-| — — — | — — — — — -|
-| Dang Ming Yao | TP064621 |
-| Lee Mun Hin Ian | TP062026 | 
-| Ryan Lee Khang Sern | TP062364 | 
-| Tan Chang Yau | TP073578 | 
-
+| Name                | Student ID |
+| ------------------- | ---------- |
+| Dang Ming Yao       | TP064621   |
+| Lee Mun Hin Ian     | TP062026   | 
+| Ryan Lee Khang Sern | TP062364   | 
+| Tan Chang Yau       | TP073578   |
 _______
 
 Project Objective

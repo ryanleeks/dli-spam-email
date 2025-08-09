@@ -1,2 +1,36 @@
-# dli-spam-email
-This is a repository for spam email model (DLI Assignment)
+# Deep Learning for Intrusion Detection
+This is a repository for phishing email model (DLI Assignment)
+The model is trained, tested, and evaluated in Google Colab and meets the assignment requirements including metrics, visualizations, and proper documentation.
+_______
+
+#Group Members
+| Name | Student ID |
+| — — — | — — — — — -|
+| Dang Ming Yao | TP064621 |
+| Lee Mun Hin Ian | TP062026 | 
+| Ryan Lee Khang Sern | TP062364 | 
+| Tan Chang Yau | TP073578 | 
+
+_______
+
+Project Objective
+_______
+
+# Training Pipeline
+Preprocessing: 
+Data Split: 
+Training: 
+Evaluation:
+✅ Accuracy
+✅ Precision
+✅ Recall
+✅ F1-score (Target: ≥ 0.90)
+✅ ROC-AUC
+✅ Confusion Matrix
+_______
+
+Models
+_______
+
+Dataset
+_______

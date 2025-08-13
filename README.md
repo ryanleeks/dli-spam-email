@@ -3,7 +3,7 @@ This is a repository for phishing email model (DLI Assignment) <br>
 The model is trained, tested, and evaluated in Google Colab and meets the assignment requirements including metrics, visualizations, and proper documentation.
 _______
 
-#Group Members
+#Group W Members
 | Name                | Student ID |
 | ------------------- | ---------- |
 | Dang Ming Yao       | TP064621   |

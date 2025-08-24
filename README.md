@@ -44,3 +44,20 @@ _______
 - Size :  17,880 rows - Legit(17,014)/Fake(886)
 - License : [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0)
 _______
+
+# Evaluation
+- Confusion Matrix
+<img width="722" height="583" alt="image" src="https://github.com/user-attachments/assets/180b84ff-adf3-4c31-9a8f-d2f69b65129c" />
+
+- Roc Curve
+<img width="611" height="609" alt="image" src="https://github.com/user-attachments/assets/7db51d7f-b5d1-446a-826a-0dab60c39298" />
+
+_______
+
+# GUI Output
+- Legit
+<img width="944" height="535" alt="image" src="https://github.com/user-attachments/assets/04aa2ca7-079f-4e4b-aa4a-1e54e40a2619" />
+
+- Fraud
+  <img width="940" height="543" alt="image" src="https://github.com/user-attachments/assets/c41764a1-3761-4f35-9b1d-cbdc5ae049b4" />
+
